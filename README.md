@@ -61,17 +61,19 @@ See the images for more details.
       v0.1.0 [CHEATING EDITION]
          *All recipes available without restriction, for testing purposes only.
 
+      v0.1.1 [CHEATING EDITION]
+         *Added two new recipes for Pearl and Galaxy Soul.
+         *Added a new ingredient to Prismatic Shard.
+         *Changed the order of the last few recipes to accommodate the new ones.
+         *Added Nexus update key. 
 
 
    # Unreleased
 
-      v0.1.1
-         *Modified the recipes that worked to avoid cluttering the interface and to test the new learning mode.
-         *Added two new recipes for Pearl and Galaxy Soul.
-         *Added a new ingredient to Prismatic Shard.
-         *Changed the order of the last few recipes to accommodate the new ones.
-         *Added update key. 
-
+      v0.2.0
+         *Added GitHub update key. 
+         *Modified all the recipes with new learning mode. [Buying at the Adventurers' Guild]
+   
       * Test recipe learning using the Content Patcher mail system.
       * Create the "Lost Page" item so it can be found
       * Add it to the game using Content Patcher
