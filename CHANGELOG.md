@@ -10,6 +10,8 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 ### Outras alterações
 
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
+
 - Add release ZIP packaging and update changelog groups
 
 Workflow: add a step that packages the repo into a <repo>-<version>.zip when a new tag is created (excludes .git, .github, .gitattributes, cliff.toml, README.md, CHANGELOG.md and other zips) and attach the ZIP to the release. cliff.toml: adjust commit grouping — remove style/build/ci groups and add a ^release parser mapped to the "🏗 Versão" group; keep other existing groups. These changes enable publishing a release artifact and refine changelog categorization.
@@ -33,6 +35,10 @@ Workflow: add a step that packages the repo into a <repo>-<version>.zip when a n
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
+
+- Update README with Release v0.1.1 and plan v0.2.0
 
 - atualiza CHANGELOG.md [skip ci]
 
