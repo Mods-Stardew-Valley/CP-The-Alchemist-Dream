@@ -10,6 +10,10 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 ### Outras alterações
 
 
+- Add release ZIP packaging and update changelog groups
+
+Workflow: add a step that packages the repo into a <repo>-<version>.zip when a new tag is created (excludes .git, .github, .gitattributes, cliff.toml, README.md, CHANGELOG.md and other zips) and attach the ZIP to the release. cliff.toml: adjust commit grouping — remove style/build/ci groups and add a ^release parser mapped to the "🏗 Versão" group; keep other existing groups. These changes enable publishing a release artifact and refine changelog categorization.
+
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
@@ -34,6 +38,8 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 - atualiza CHANGELOG.md [skip ci]
 
+- atualiza CHANGELOG.md [skip ci]
+
 
 ## v0.1.1 - 2026-07-24
 
@@ -46,6 +52,8 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 Remove test comments from manifest.json and reorganize the README changelog by moving the 'Unreleased' section header to appear before the versioned releases.
 
+- Bump version to 0.1.1
+
 
 ### ✨ Novidades
 
@@ -53,12 +61,6 @@ Remove test comments from manifest.json and reorganize the README changelog by m
 - Added update key.
 
 - Add Pearl and Galaxy Soul recipes
-
-
-### 🏗 Build
-
-
-- Bump version to 0.1.1
 
 
 ### 🐛 Correções
@@ -104,6 +106,8 @@ Remove test comments from manifest.json and reorganize the README changelog by m
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
 
+- Bump version to 0.1.0
+
 
 ### ✨ Novidades
 
@@ -111,12 +115,6 @@ Remove test comments from manifest.json and reorganize the README changelog by m
 - Expand crafting recipes with material progression
 
 - Update crafting recipes to ore materials
-
-
-### 🏗 Build
-
-
-- Bump version to 0.1.0
 
 
 ### 📚 Documentação
