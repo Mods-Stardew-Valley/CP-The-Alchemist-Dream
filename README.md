@@ -166,6 +166,11 @@ Consider buying me a [b][url=https://ko-fi.com/logandoidao][size=4]Ko-Fi[/size][
 *Aprender a usar todas as condições de envio do Content Patcher. O modelo suporta diversos gatilhos, como datas, eventos, cartas recebidas, receitas conhecidas e condições do Expanded Preconditions.
 *Validar que o aprendizado das receitas funciona corretamente.
 
+-V0.2.1
+
+*Testar receitas compraveis na loja da guilda com Content Patcher
+*Compra em cadeia onde a proxima so libera quando tiver a anterior
+
 -V0.3.0 — Páginas Perdidas
 
 *Fazer os objetos das páginas.
