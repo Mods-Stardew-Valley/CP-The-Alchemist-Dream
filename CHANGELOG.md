@@ -10,6 +10,10 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 ### Outras alterações
 
 
+- Update no Readme
+
+Adicionado ponto de teste e aprendizado para o futuro
+
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
 
 - Add release ZIP packaging and update changelog groups
@@ -35,6 +39,8 @@ Workflow: add a step that packages the repo into a <repo>-<version>.zip when a n
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
